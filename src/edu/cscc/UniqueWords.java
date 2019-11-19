@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * Utility to process a document to into sorted set of unique words
- * @author student name
+ * @author Brian Pawletzki
  */
 public class UniqueWords {
     /**
